@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This repository has been moved to [https://codeberg.org/whotwagner/calciprog](https://codeberg.org/whotwagner/calciprog). Please visit the new location for the latest updates.
+
 # How to calculate ip-networks using bit-operators in C
 
 Sometimes we have to calculate networks. We are interested in stuff like: networkid, subnetmask, min. hostip, max. hostip, how many hosts can we address in this network aso.. There are many tools for calculating networks. And they are perfectly good. If you need it in a c programm, there are libraries for that too. But I think it's not neccessary to use libraries for that. If you calculate it manually, it's just a matter of working with bits in a 32bit address, so it might be an quite easy task... 
